@@ -1,0 +1,21 @@
+.course-container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.course-title {
+  font-size: 30px;
+  color: #333;
+  font-weight: bold;
+}
+
+.course-list {
+  text-align: left;
+  display: inline-block;
+  font-size: 20px;
+  line-height: 2;
+}
+
