@@ -12,7 +12,7 @@ const UserInfo: React.FC = () => {
 
   return (
     <div className="user-info-container">
-      <h1 className="user-info-title">Thông tin cá nhân</h1>
+      <h1 className="user-info-title">Thông tin cá nhân(Bài 3)</h1>
       <ul className="user-info-list">
         <li>Họ và tên: <strong>{user.name}</strong></li>
         <li>Giới tính: <strong>{user.gender}</strong></li>

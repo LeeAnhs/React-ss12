@@ -1,0 +1,45 @@
+.admin-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 20px auto;
+  border: 2px solid #ccc;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  background-color: #d3d3d3;
+  padding: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.content {
+  display: flex;
+  min-height: 300px;
+}
+
+.menu {
+  background-color: #1E3A8A;
+  color: white;
+  width: 150px;
+  padding: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.main {
+  background-color: #f0f0f0;
+  flex: 1;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.footer {
+  background-color: #d3d3d3;
+  padding: 15px;
+  text-align: center;
+  font-weight: bold;
+}
